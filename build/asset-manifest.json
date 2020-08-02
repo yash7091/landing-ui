@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/landing-ui/static/css/main.4f51095f.chunk.css",
+    "main.js": "/landing-ui/static/js/main.6acbcd2e.chunk.js",
+    "main.js.map": "/landing-ui/static/js/main.6acbcd2e.chunk.js.map",
+    "runtime-main.js": "/landing-ui/static/js/runtime-main.017510b2.js",
+    "runtime-main.js.map": "/landing-ui/static/js/runtime-main.017510b2.js.map",
+    "static/js/2.c68b35b5.chunk.js": "/landing-ui/static/js/2.c68b35b5.chunk.js",
+    "static/js/2.c68b35b5.chunk.js.map": "/landing-ui/static/js/2.c68b35b5.chunk.js.map",
+    "index.html": "/landing-ui/index.html",
+    "precache-manifest.caab98209aa858996e92ee48a6f885d0.js": "/landing-ui/precache-manifest.caab98209aa858996e92ee48a6f885d0.js",
+    "service-worker.js": "/landing-ui/service-worker.js",
+    "static/css/main.4f51095f.chunk.css.map": "/landing-ui/static/css/main.4f51095f.chunk.css.map",
+    "static/js/2.c68b35b5.chunk.js.LICENSE.txt": "/landing-ui/static/js/2.c68b35b5.chunk.js.LICENSE.txt",
+    "static/media/big-eclipse.svg": "/landing-ui/static/media/big-eclipse.ecb2be24.svg",
+    "static/media/cart.svg": "/landing-ui/static/media/cart.a72969d9.svg",
+    "static/media/logo.svg": "/landing-ui/static/media/logo.146d6de4.svg",
+    "static/media/matebook.png": "/landing-ui/static/media/matebook.88a602a5.png",
+    "static/media/mid-eclipse.svg": "/landing-ui/static/media/mid-eclipse.9aae08a9.svg",
+    "static/media/small-eclipse.svg": "/landing-ui/static/media/small-eclipse.d769658e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.017510b2.js",
+    "static/js/2.c68b35b5.chunk.js",
+    "static/css/main.4f51095f.chunk.css",
+    "static/js/main.6acbcd2e.chunk.js"
+  ]
+}
